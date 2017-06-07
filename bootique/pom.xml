@@ -14,12 +14,12 @@
 	<name>bootique: a minimally opinionated app launcher and integration framework</name>
 	<description>
 		Bootique is a simple DI-based framework for launching command-line Java applications
-		of any kind. Be it webservices, webapps, jobs, etc. 
+		of any kind. Be it webservices, webapps, jobs, etc.
 	</description>
 
 	<properties>
 		<guice-version>4.0</guice-version>
-		<jackson-version>2.6.4</jackson-version>
+		<jackson-version>2.8.8.1</jackson-version>
 	</properties>
 
 	<dependencyManagement>
